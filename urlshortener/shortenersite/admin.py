@@ -1,5 +1,5 @@
 from django.contrib import admin
-from shortenerSite.models import Urls
+from shortenersite.models import Urls
 # Register your models here.
  
 class UrlsAdmin(admin.ModelAdmin):
